@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "608522366069",
+    "firebase_url": "https://smart-list-zrs.firebaseio.com",
+    "project_id": "smart-list-zrs",
+    "storage_bucket": "smart-list-zrs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608522366069:android:f980d60086456d59711c3c",
+        "android_client_info": {
+          "package_name": "com.example.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608522366069-vrhj7gllmoq55op17h2cr0udpbjo8i35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstapp",
+            "certificate_hash": "e92810e3a79f9137af5aaf7f89ac9efb83aab38f"
+          }
+        },
+        {
+          "client_id": "608522366069-h3uqfl3n093iktg0sr2a87v8uqutq5bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDw_hzbYx2_iOXDFRxCfV_OE1BCaG21zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608522366069-h3uqfl3n093iktg0sr2a87v8uqutq5bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
